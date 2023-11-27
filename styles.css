@@ -13,3 +13,32 @@
     background-color: #191919;
 }
 
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+
+.portfolio{
+    color: #ffffff;
+    font-size: 40px;
+
+
+}
+
+
+.portfolio span {
+    color: #c3f900;
+}
+
+li {
+    color: white;
+    list-style: none;
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 30px;
+    cursor: pointer;
+}
