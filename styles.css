@@ -168,6 +168,7 @@ section div button:hover {
     border-radius: 25px;
     cursor: pointer;
     transition: 0.5s;
+    text-decoration: none;
 
 }
 
